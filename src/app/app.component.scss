@@ -1,0 +1,20 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.landing {
+  margin: 1%;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.devis-btn {
+  margin-top: 1%;
+}
+
+#landing-img {
+  border-radius: 2%;
+  margin-top: 1%;
+}
